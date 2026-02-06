@@ -1,4 +1,4 @@
-# 💬 Random Quote Generator (Upgraded Version)
+# 💬 Random Quote Generator
 
 A simple **Quote Generator website** built using **HTML, CSS, and JavaScript**.  
 
@@ -19,7 +19,7 @@ Click a button to display a **random inspirational quote**, with a **smooth fade
 
 ## 📂 Project Structure
 
-quote-generator-upgraded/
+quote-generator/
 │
 ├── index.html # Main HTML structure
 ├── styles.css # Styling and layout
